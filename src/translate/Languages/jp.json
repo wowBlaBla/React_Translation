@@ -1,0 +1,10 @@
+{
+  "Application.title": "テスト",
+  "Application.subTitle": "React フックのみによる i18n 内部化 - 翻訳",
+
+  "Application.footer": "スティーブンによって開発された",
+
+  "LanguageSwitcher.used": "ラングが選択されました:",
+  "LanguageSwitcher.jp": "日本語",
+  "LanguageSwitcher.en": "English"
+}

@@ -1,0 +1,10 @@
+{
+  "Application.title": "Test",
+  "Application.subTitle": "i18n internalization with only React hooks - translate",
+
+  "Application.footer": "Developed by Steven",
+
+  "LanguageSwitcher.used": "Lang selected:",
+  "LanguageSwitcher.jp": "Japanese",
+  "LanguageSwitcher.en": "English"
+}
